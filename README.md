@@ -1,5 +1,5 @@
 # Banking-System
-A Basic Banking System Project
+A Basic Banking System Project for Internship at The Sparks Foundation
 PROJECT TITLE: THE BASIC BANKING SYSTEM
 BY: SHIVANGI BHATNAGAR
 FRONT-END: HTML, CSS, Javascript
